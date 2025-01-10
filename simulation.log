@@ -1,0 +1,276 @@
+2025-01-09 23:41:02,344 - 75 packets created, Window size: 6, Packet length: 80, Nth packed to be dropped: 20, Timeout interval: 3
+2025-01-09 23:41:02,346 - Sender: sending packet 0
+2025-01-09 23:41:02,346 - Sender: sending packet 1
+2025-01-09 23:41:02,346 - Sender: sending packet 2
+2025-01-09 23:41:02,346 - Receiver: packet 0 received
+2025-01-09 23:41:02,346 - Receiver: packet 1 received
+2025-01-09 23:41:02,346 - Receiver: packet 2 received
+2025-01-09 23:41:02,346 - Sender: sending packet 3
+2025-01-09 23:41:02,346 - Sender: sending packet 4
+2025-01-09 23:41:02,346 - Sender: sending packet 5
+2025-01-09 23:41:02,346 - Receiver: packet 3 received
+2025-01-09 23:41:02,346 - Receiver: packet 4 received
+2025-01-09 23:41:02,346 - Receiver: packet 5 received
+2025-01-09 23:41:02,346 - Sender: ack 0 received
+2025-01-09 23:41:02,352 - Sender: sending packet 6
+2025-01-09 23:41:02,352 - Sender: ack 1 received
+2025-01-09 23:41:02,352 - Sender: sending packet 7
+2025-01-09 23:41:02,352 - Sender: ack 2 received
+2025-01-09 23:41:02,352 - Sender: sending packet 8
+2025-01-09 23:41:02,352 - Sender: ack 3 received
+2025-01-09 23:41:02,369 - Sender: sending packet 9
+2025-01-09 23:41:02,369 - Sender: ack 4 received
+2025-01-09 23:41:02,381 - Sender: sending packet 10
+2025-01-09 23:41:02,381 - Sender: ack 5 received
+2025-01-09 23:41:02,380 - Receiver: packet 6 received
+2025-01-09 23:41:02,381 - Sender: sending packet 11
+2025-01-09 23:41:02,424 - Receiver: packet 7 received
+2025-01-09 23:41:02,518 - Receiver: packet 8 received
+2025-01-09 23:41:02,471 - Sender: ack 6 received
+2025-01-09 23:41:02,533 - Receiver: packet 9 received
+2025-01-09 23:41:02,564 - Sender: sending packet 12
+2025-01-09 23:41:02,580 - Receiver: packet 10 received
+2025-01-09 23:41:02,612 - Sender: ack 7 received
+2025-01-09 23:41:02,643 - Receiver: packet 11 received
+2025-01-09 23:41:02,691 - Sender: sending packet 13
+2025-01-09 23:41:02,722 - Receiver: packet 12 received
+2025-01-09 23:41:02,753 - Sender: ack 8 received
+2025-01-09 23:41:02,785 - Receiver: packet 13 received
+2025-01-09 23:41:02,800 - Sender: sending packet 14
+2025-01-09 23:41:02,816 - Sender: ack 9 received
+2025-01-09 23:41:02,816 - Sender: sending packet 15
+2025-01-09 23:41:02,816 - Sender: ack 10 received
+2025-01-09 23:41:02,816 - Sender: sending packet 16
+2025-01-09 23:41:02,816 - Sender: ack 11 received
+2025-01-09 23:41:02,816 - Sender: sending packet 17
+2025-01-09 23:41:02,816 - Sender: ack 12 received
+2025-01-09 23:41:02,816 - Sender: sending packet 18
+2025-01-09 23:41:02,816 - Receiver: packet 14 received
+2025-01-09 23:41:02,832 - Sender: ack 13 received
+2025-01-09 23:41:02,864 - Sender: sending packet 19
+2025-01-09 23:41:02,864 - Receiver: packet 15 received
+2025-01-09 23:41:02,879 - Sender: packet 19 dropped
+2025-01-09 23:41:02,911 - Receiver: packet 16 received
+2025-01-09 23:41:02,958 - Sender: ack 14 received
+2025-01-09 23:41:02,974 - Receiver: packet 17 received
+2025-01-09 23:41:03,021 - Sender: sending packet 20
+2025-01-09 23:41:03,068 - Receiver: packet 18 received
+2025-01-09 23:41:03,099 - Sender: ack 15 received
+2025-01-09 23:41:03,099 - Receiver: packet 20 received out of order, stored in buffer
+2025-01-09 23:41:03,115 - Sender: sending packet 21
+2025-01-09 23:41:03,158 - Sender: ack 16 received
+2025-01-09 23:41:03,158 - Sender: sending packet 22
+2025-01-09 23:41:03,158 - Sender: ack 17 received
+2025-01-09 23:41:03,158 - Sender: sending packet 23
+2025-01-09 23:41:03,158 - Sender: ack 18 received
+2025-01-09 23:41:03,158 - Sender: sending packet 24
+2025-01-09 23:41:03,158 - Sender: ack 20 received out of order, buffered
+2025-01-09 23:41:03,159 - Receiver: packet 21 received out of order, stored in buffer
+2025-01-09 23:41:03,159 - Receiver: packet 22 received out of order, stored in buffer
+2025-01-09 23:41:03,159 - Receiver: packet 23 received out of order, stored in buffer
+2025-01-09 23:41:03,159 - Receiver: packet 24 received out of order, stored in buffer
+2025-01-09 23:41:03,159 - Sender: ack 21 received out of order, buffered
+2025-01-09 23:41:03,198 - Sender: ack 22 received out of order, buffered
+2025-01-09 23:41:03,214 - Sender: ack 23 received out of order, buffered
+2025-01-09 23:41:03,245 - Sender: ack 24 received out of order, buffered
+2025-01-09 23:41:03,245 - Sender: packet 24 timed out
+2025-01-09 23:41:03,245 - Sender: sending packet 19
+2025-01-09 23:41:03,277 - Receiver: packet 19 received
+2025-01-09 23:41:03,293 - Sender: ack 19 received
+2025-01-09 23:41:03,293 - Sender: sending packet 25
+2025-01-09 23:41:03,293 - Sender: sending packet 26
+2025-01-09 23:41:03,293 - Sender: sending packet 27
+2025-01-09 23:41:03,293 - Sender: sending packet 28
+2025-01-09 23:41:03,293 - Sender: sending packet 29
+2025-01-09 23:41:03,293 - Sender: sending packet 30
+2025-01-09 23:41:03,293 - Sender: packet 19 timed out
+2025-01-09 23:41:03,293 - Receiver: packet 20 received
+2025-01-09 23:41:03,293 - Receiver: packet 21 received
+2025-01-09 23:41:03,293 - Receiver: packet 22 received
+2025-01-09 23:41:03,293 - Receiver: packet 23 received
+2025-01-09 23:41:03,293 - Receiver: packet 24 received
+2025-01-09 23:41:03,293 - Receiver: packet 25 received
+2025-01-09 23:41:03,293 - Receiver: packet 26 received
+2025-01-09 23:41:03,293 - Receiver: packet 27 received
+2025-01-09 23:41:03,293 - Receiver: packet 28 received
+2025-01-09 23:41:03,293 - Receiver: packet 29 received
+2025-01-09 23:41:03,293 - Receiver: packet 30 received
+2025-01-09 23:41:03,293 - Sender: ack 20 received
+2025-01-09 23:41:03,293 - Sender: ack 21 received
+2025-01-09 23:41:03,293 - Sender: ack 22 received
+2025-01-09 23:41:03,293 - Sender: ack 23 received
+2025-01-09 23:41:03,294 - Sender: ack 24 received
+2025-01-09 23:41:03,294 - Sender: ack 25 received
+2025-01-09 23:41:03,294 - Sender: sending packet 31
+2025-01-09 23:41:03,294 - Sender: ack 26 received
+2025-01-09 23:41:03,294 - Sender: sending packet 32
+2025-01-09 23:41:03,294 - Sender: ack 27 received
+2025-01-09 23:41:03,293 - Sender: sending packet 25
+2025-01-09 23:41:03,294 - Sender: sending packet 33
+2025-01-09 23:41:03,294 - Receiver: packet 31 received
+2025-01-09 23:41:03,294 - Sender: sending packet 28
+2025-01-09 23:41:03,294 - Sender: ack 28 received
+2025-01-09 23:41:03,294 - Receiver: packet 32 received
+2025-01-09 23:41:03,295 - Receiver: packet 25 received out of order, stored in buffer
+2025-01-09 23:41:03,295 - Receiver: packet 33 received
+2025-01-09 23:41:03,295 - Receiver: packet 28 received out of order, stored in buffer
+2025-01-09 23:41:03,295 - Sender: sending packet 29
+2025-01-09 23:41:03,295 - Sender: sending packet 30
+2025-01-09 23:41:03,295 - Sender: packet 30 dropped
+2025-01-09 23:41:03,295 - Sender: sending packet 34
+2025-01-09 23:41:03,308 - Sender: packet 34 dropped
+2025-01-09 23:41:03,308 - Sender: ack 29 received
+2025-01-09 23:41:03,308 - Sender: sending packet 35
+2025-01-09 23:41:03,308 - Sender: ack 30 received
+2025-01-09 23:41:03,308 - Sender: sending packet 36
+2025-01-09 23:41:03,308 - Sender: ack 31 received
+2025-01-09 23:41:03,308 - Sender: sending packet 37
+2025-01-09 23:41:03,308 - Sender: ack 32 received
+2025-01-09 23:41:03,308 - Sender: sending packet 38
+2025-01-09 23:41:03,324 - Receiver: packet 29 received out of order, stored in buffer
+2025-01-09 23:41:03,355 - Receiver: packet 35 received out of order, stored in buffer
+2025-01-09 23:41:03,324 - Sender: ack 25 received
+2025-01-09 23:41:03,371 - Sender: ack 33 received
+2025-01-09 23:41:03,355 - Receiver: packet 36 received out of order, stored in buffer
+2025-01-09 23:41:03,387 - Sender: sending packet 39
+2025-01-09 23:41:03,435 - Receiver: packet 37 received out of order, stored in buffer
+2025-01-09 23:41:03,450 - Sender: ack 28 received
+2025-01-09 23:41:03,466 - Receiver: packet 38 received out of order, stored in buffer
+2025-01-09 23:41:03,513 - Sender: ack 29 received
+2025-01-09 23:41:03,561 - Receiver: packet 39 received out of order, stored in buffer
+2025-01-09 23:41:03,608 - Sender: ack 35 received out of order, buffered
+2025-01-09 23:41:03,608 - Sender: ack 36 received out of order, buffered
+2025-01-09 23:41:03,608 - Sender: ack 37 received out of order, buffered
+2025-01-09 23:41:03,608 - Sender: packet 35 timed out
+2025-01-09 23:41:03,608 - Sender: ack 38 received out of order, buffered
+2025-01-09 23:41:03,608 - Sender: sending packet 34
+2025-01-09 23:41:03,608 - Sender: ack 39 received out of order, buffered
+2025-01-09 23:41:03,624 - Receiver: packet 34 received
+2025-01-09 23:41:03,624 - Sender: ack 34 received
+2025-01-09 23:41:03,703 - Sender: sending packet 40
+2025-01-09 23:41:03,703 - Sender: sending packet 41
+2025-01-09 23:41:03,703 - Sender: sending packet 42
+2025-01-09 23:41:03,703 - Sender: sending packet 43
+2025-01-09 23:41:03,703 - Sender: sending packet 44
+2025-01-09 23:41:03,719 - Receiver: packet 40 received out of order, stored in buffer
+2025-01-09 23:41:03,750 - Sender: sending packet 45
+2025-01-09 23:41:03,797 - Receiver: packet 41 received out of order, stored in buffer
+2025-01-09 23:41:03,828 - Sender: ack 40 received
+2025-01-09 23:41:03,828 - Receiver: packet 42 received out of order, stored in buffer
+2025-01-09 23:41:03,860 - Sender: sending packet 46
+2025-01-09 23:41:03,860 - Receiver: packet 43 received out of order, stored in buffer
+2025-01-09 23:41:03,907 - Sender: ack 41 received
+2025-01-09 23:41:03,923 - Receiver: packet 44 received out of order, stored in buffer
+2025-01-09 23:41:03,938 - Sender: sending packet 47
+2025-01-09 23:41:03,985 - Sender: ack 42 received
+2025-01-09 23:41:03,954 - Receiver: packet 45 received out of order, stored in buffer
+2025-01-09 23:41:04,001 - Sender: sending packet 48
+2025-01-09 23:41:04,032 - Receiver: packet 46 received out of order, stored in buffer
+2025-01-09 23:41:04,048 - Sender: ack 43 received
+2025-01-09 23:41:04,079 - Receiver: packet 47 received out of order, stored in buffer
+2025-01-09 23:41:04,095 - Sender: sending packet 49
+2025-01-09 23:41:04,111 - Receiver: packet 48 received out of order, stored in buffer
+2025-01-09 23:41:04,173 - Receiver: packet 49 received out of order, stored in buffer
+2025-01-09 23:41:04,157 - Sender: ack 44 received
+2025-01-09 23:41:04,252 - Sender: sending packet 50
+2025-01-09 23:41:04,252 - Sender: ack 45 received
+2025-01-09 23:41:04,252 - Sender: sending packet 51
+2025-01-09 23:41:04,252 - Sender: ack 46 received
+2025-01-09 23:41:04,252 - Sender: sending packet 52
+2025-01-09 23:41:04,252 - Sender: ack 47 received
+2025-01-09 23:41:04,252 - Sender: sending packet 53
+2025-01-09 23:41:04,252 - Sender: packet 53 dropped
+2025-01-09 23:41:04,252 - Sender: ack 48 received
+2025-01-09 23:41:04,252 - Sender: sending packet 54
+2025-01-09 23:41:04,252 - Sender: ack 49 received
+2025-01-09 23:41:04,252 - Sender: sending packet 55
+2025-01-09 23:41:04,284 - Receiver: packet 50 received out of order, stored in buffer
+2025-01-09 23:41:04,284 - Sender: ack 50 received
+2025-01-09 23:41:04,316 - Receiver: packet 51 received out of order, stored in buffer
+2025-01-09 23:41:04,347 - Sender: sending packet 56
+2025-01-09 23:41:04,395 - Receiver: packet 52 received out of order, stored in buffer
+2025-01-09 23:41:04,442 - Sender: ack 51 received
+2025-01-09 23:41:04,474 - Receiver: packet 54 received out of order, stored in buffer
+2025-01-09 23:41:04,520 - Sender: sending packet 57
+2025-01-09 23:41:04,536 - Receiver: packet 55 received out of order, stored in buffer
+2025-01-09 23:41:04,583 - Sender: ack 52 received
+2025-01-09 23:41:04,615 - Receiver: packet 56 received out of order, stored in buffer
+2025-01-09 23:41:04,646 - Sender: sending packet 58
+2025-01-09 23:41:04,662 - Receiver: packet 57 received out of order, stored in buffer
+2025-01-09 23:41:04,693 - Sender: ack 54 received out of order, buffered
+2025-01-09 23:41:04,724 - Receiver: packet 58 received out of order, stored in buffer
+2025-01-09 23:41:04,724 - Sender: ack 55 received out of order, buffered
+2025-01-09 23:41:04,787 - Sender: ack 56 received out of order, buffered
+2025-01-09 23:41:04,787 - Sender: ack 57 received out of order, buffered
+2025-01-09 23:41:04,787 - Sender: ack 58 received out of order, buffered
+2025-01-09 23:41:04,787 - Sender: packet 56 timed out
+2025-01-09 23:41:04,787 - Sender: sending packet 53
+2025-01-09 23:41:04,803 - Receiver: packet 53 received out of order, stored in buffer
+2025-01-09 23:41:04,819 - Sender: ack 53 received
+2025-01-09 23:41:04,819 - Sender: sending packet 59
+2025-01-09 23:41:04,835 - Sender: sending packet 60
+2025-01-09 23:41:04,835 - Sender: sending packet 61
+2025-01-09 23:41:04,835 - Sender: sending packet 62
+2025-01-09 23:41:04,835 - Sender: sending packet 63
+2025-01-09 23:41:04,835 - Sender: sending packet 64
+2025-01-09 23:41:04,835 - Receiver: packet 59 received out of order, stored in buffer
+2025-01-09 23:41:04,835 - Receiver: packet 60 received out of order, stored in buffer
+2025-01-09 23:41:04,851 - Sender: ack 59 received
+2025-01-09 23:41:04,851 - Receiver: packet 61 received out of order, stored in buffer
+2025-01-09 23:41:04,882 - Sender: sending packet 65
+2025-01-09 23:41:04,882 - Receiver: packet 62 received out of order, stored in buffer
+2025-01-09 23:41:04,898 - Sender: ack 60 received
+2025-01-09 23:41:04,898 - Sender: sending packet 66
+2025-01-09 23:41:04,898 - Receiver: packet 63 received out of order, stored in buffer
+2025-01-09 23:41:04,898 - Sender: ack 61 received
+2025-01-09 23:41:04,898 - Sender: sending packet 67
+2025-01-09 23:41:04,898 - Receiver: packet 64 received out of order, stored in buffer
+2025-01-09 23:41:04,898 - Receiver: packet 65 received out of order, stored in buffer
+2025-01-09 23:41:04,898 - Sender: packet 60 timed out
+2025-01-09 23:41:04,898 - Sender: sending packet 63
+2025-01-09 23:41:04,898 - Receiver: packet 66 received out of order, stored in buffer
+2025-01-09 23:41:04,898 - Receiver: packet 67 received out of order, stored in buffer
+2025-01-09 23:41:04,898 - Sender: ack 62 received
+2025-01-09 23:41:04,898 - Sender: sending packet 68
+2025-01-09 23:41:04,898 - Receiver: packet 63 received out of order, stored in buffer
+2025-01-09 23:41:04,898 - Receiver: packet 68 received out of order, stored in buffer
+2025-01-09 23:41:04,898 - Sender: ack 63 received
+2025-01-09 23:41:04,898 - Sender: sending packet 64
+2025-01-09 23:41:04,898 - Sender: sending packet 65
+2025-01-09 23:41:04,898 - Sender: sending packet 69
+2025-01-09 23:41:04,898 - Sender: packet 65 dropped
+2025-01-09 23:41:04,898 - Receiver: packet 64 received out of order, stored in buffer
+2025-01-09 23:41:04,898 - Sender: packet 69 dropped
+2025-01-09 23:41:04,898 - Sender: ack 64 received
+2025-01-09 23:41:04,898 - Sender: sending packet 70
+2025-01-09 23:41:04,898 - Sender: sending packet 66
+2025-01-09 23:41:04,898 - Sender: ack 65 received
+2025-01-09 23:41:04,898 - Sender: sending packet 71
+2025-01-09 23:41:04,898 - Receiver: packet 70 received out of order, stored in buffer
+2025-01-09 23:41:04,898 - Receiver: packet 66 received out of order, stored in buffer
+2025-01-09 23:41:04,898 - Receiver: packet 71 received out of order, stored in buffer
+2025-01-09 23:41:04,898 - Sender: ack 66 received
+2025-01-09 23:41:04,898 - Sender: sending packet 72
+2025-01-09 23:41:04,898 - Sender: sending packet 67
+2025-01-09 23:41:04,898 - Sender: ack 67 received
+2025-01-09 23:41:04,944 - Sender: sending packet 73
+2025-01-09 23:41:04,944 - Sender: ack 63 received
+2025-01-09 23:41:04,913 - Receiver: packet 72 received out of order, stored in buffer
+2025-01-09 23:41:04,944 - Sender: ack 68 received
+2025-01-09 23:41:04,961 - Receiver: packet 67 received out of order, stored in buffer
+2025-01-09 23:41:04,977 - Receiver: packet 73 received out of order, stored in buffer
+2025-01-09 23:41:04,977 - Sender: sending packet 74
+2025-01-09 23:41:04,993 - Sender: ack 64 received
+2025-01-09 23:41:04,993 - Sender: ack 70 received out of order, buffered
+2025-01-09 23:41:05,009 - Receiver: packet 74 received out of order, stored in buffer
+2025-01-09 23:41:05,009 - Sender: ack 66 received
+2025-01-09 23:41:05,119 - Sender: ack 71 received out of order, buffered
+2025-01-09 23:41:05,135 - Sender: ack 72 received out of order, buffered
+2025-01-09 23:41:05,135 - Sender: ack 67 received
+2025-01-09 23:41:05,135 - Sender: ack 73 received out of order, buffered
+2025-01-09 23:41:05,135 - Sender: ack 74 received out of order, buffered
+2025-01-09 23:41:07,909 - Sender: packet 69 timed out
+2025-01-09 23:41:07,909 - Sender: sending packet 69
+2025-01-09 23:41:07,925 - Receiver: packet 69 received out of order, stored in buffer
+2025-01-09 23:41:07,940 - Sender: ack 69 received
+2025-01-09 23:41:07,940 - Sender: All packets have been sent and acknowledgments processed.
